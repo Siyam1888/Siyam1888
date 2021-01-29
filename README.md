@@ -9,9 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+- 🌱 I’m currently learning Python, DSA, Linux
 
 - 🔭 I’m currently working on some freelance jobs
-- 🌱 I’m currently learning Python, DSA, Linux
+
 - 👯 I’m looking to collaborate on some cool projects
+
+-->
+
